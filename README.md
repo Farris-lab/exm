@@ -1,2 +1,2 @@
-# exm
-Expansion Microscopy
+# exm-methods
+Expansion Microscopy methods and data
