@@ -1,2 +1,2 @@
-# exm-methods
-Expansion Microscopy methods and data
+# ExM Methods
+Expansion Microscopy methods and data from the Farris Lab.
